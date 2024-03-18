@@ -1,17 +1,26 @@
 {
-  "name": "jsautomation",
+  "name": "discordautorn",
   "version": "1.0.0",
-  "description": "",
+  "description": "made with js 💛 && star repo 🌟 if you like",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "rndhri",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
     "puppeteer": "^5.2.0",
     "puppeteer-core": "https://github.com/seanaye/puppeteer/releases/download/v5.5.0-apple-silicon/puppeteer-core-5.5.0-post.tgz"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erendhoheiri/ossdcrndhri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erendhoheiri/ossdcrndhri/issues"
+  },
+  "homepage": "https://github.com/erendhoheiri/ossdcrndhri#readme"
 }
